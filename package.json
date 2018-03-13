@@ -1,0 +1,28 @@
+{
+  "name": "xtbc18s1",
+  "version": "0.2.0",
+  "description": "React coding bootcamp",
+  "main": "index.js",
+  "config": {
+    "postcssPlugins": "require('autoprefixer')()"
+  },
+  "scripts": {
+    "css:b": "NODE_PATH=$PWD && stylus --use poststylus --with \"[$npm_package_config_postcssPlugins]\" --use rupture ./static-src/css-src/ --out ./static/css",
+    "css:w": "NODE_PATH=$PWD && stylus --use poststylus --with \"[$npm_package_config_postcssPlugins]\" --use rupture --sourcemap --sourcemap-base ./static-src/css-src/ --watch ./static-src/css-src/ --out ./static/css",
+    "build": "npm run css:b",
+    "watch": "parallelshell 'npm run css:w'",
+    "prewatch": "npm run build",
+    "start": "npm run watch"
+  },
+  "author": "Davey Strus",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^8.1.0",
+    "onchange": "^3.3.0",
+    "parallelshell": "^3.0.2",
+    "poststylus": "^1.0.0",
+    "rupture": "^0.7.1",
+    "stylus": "^0.54.5",
+    "watchify": "^3.11.0"
+  }
+}
