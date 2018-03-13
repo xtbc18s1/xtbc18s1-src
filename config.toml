@@ -2,3 +2,7 @@ baseURL = "http://xtbc18s1.github.io/"
 languageCode = "en-us"
 title = "Xtern Bootcamp 2018"
 theme = 'learn'
+
+[params]
+  # Change default color scheme with a variant one. Can be "red", "blue", "green".
+  #themeVariant = "xtern"

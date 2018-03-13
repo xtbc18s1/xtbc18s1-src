@@ -1,6 +1,7 @@
 ---
 title: "Codewars"
 date: 2018-03-13T13:53:46-04:00
+weight: 1
 ---
 
 ### TL;DR
@@ -16,7 +17,7 @@ Congratulations on being accepted to the 2018 XTERN Bootcamp! This class will be
 
 In order to make sure everyone gets as much as possible out of this experience, it’s vitally important that everyone arrives with a solid understanding of the JavaScript language. That way, we get to focus on learning React and building cool stuff instead of spending all of our time on basic syntax.
 
-You have already received a list of online resources that provide a basic foundation in JavaScript, HTML, and CSS (and they're linked again here). Once you have completed reading/watching/coding those, we have an assignment for you! The assignment should be completed and submitted to us for review before your first day of attending class.
+On the following pages of this prerequisites section, you'll find links to free online resources that provide a basic foundation in JavaScript, HTML, and CSS. Once you have completed reading/watching/coding those, we have an assignment for you! The assignment should be completed and submitted to us for review before your first day of attending class.
 
 We will be using a website called Codewars to test your knowledge of basic JavaScript. We’ve identified 12 problems that cover topics we will be using daily in class: Arrays, Objects, and String manipulation.
 
