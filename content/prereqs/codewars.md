@@ -42,20 +42,11 @@ Below, I’ve included some screenshots and instructions for how to get started.
 
 ### Signing up
 
-<figure>
-<img src="/images/cw-ss-01.png" alt="Step 1">
-<figcaption><strong>Step 1:  Choose JavaScript as your language.</strong></figcaption>
-</figure>
+<div class="img codewars cw01"><span>Step 1:  Choose JavaScript as your language.</span></div>
 
-<figure>
-<img src="/images/cw-ss-02.png" alt="Step 2">
-<figcaption><strong>Step 2: Solve the first problem.</strong></figcaption>
-</figure>
+<div class="img codewars cw02"><span>Step 2: Solve the first problem.</span></div>
 
-<figure>
-<img src="/images/cw-ss-03.png" alt="Step 3">
-<figcaption><strong>Step 3:  Link your GitHub Account.</strong> (You do have a Github account, right? If not, <a href="https://github.com/">Sign up</a>!)</figcaption>
-</figure>
+<div class="img codewars cw03"><span>Step 3:  Link your GitHub Account.</strong> (You do have a Github account, right? If not, <a href="https://github.com/">Sign up</a>!)</span></div>
 
 ### Following a User:
 
@@ -65,21 +56,15 @@ For example, to follow Davey, go to https://www.codewars.com/users/dstrus.
 
 Step 2:  Click the _follow_ button.
 
-![Follow](/images/cw-ss-04.png)
+<div class="img codewars cw04"><span>Click <em>follow</em> on <a href="https://www.codewars.com/users/dstrus">Davey's profile page</a>.</span></div>
 
 ### Finding a Particular Exercise:
 
 Click on the links in the list on the first page, OR...
 
-<figure>
-<img src="/images/cw-ss-05.png" alt="Kata">
-<figcaption><strong>Step 1:  Click on ‘Kata’ in the side menu.</strong></figcaption>
-</figure>
+<div class="img codewars cw05"><span>Step 1:  Click on ‘Kata’ in the side menu.</span></div>
 
-<figure>
-<img src="/images/cw-ss-06.png" alt="Search">
-<figcaption><strong>Step 2:  Type the name of the exercise in the search box.</strong></figcaption>
-</figure>
+<div class="img codewars cw06"><span>Step 2:  Type the name of the exercise in the search box.</span></div>
 
 ### Other questions?
 
