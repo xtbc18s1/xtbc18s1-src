@@ -2,6 +2,7 @@
 title: "Prerequisites"
 date: 2018-03-13T13:49:12-04:00
 chapter: true
+weight: 0
 ---
 
 ### Before you start
