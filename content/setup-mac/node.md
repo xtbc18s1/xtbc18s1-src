@@ -16,7 +16,7 @@ If not, you can click one of the big, green download links on the Node.js web si
 {{% download "Node.js" "http://nodejs.org/" %}}
 
 {{% aside info Note %}}
-Node version numbers are confusing, but either the LTS version (8.11.1 as of this writing) or the Current version (9.11.1) will do for our purposes.
+Node version numbers are confusing, but either the LTS version (8.11.1 as of this writing) or the Current version (10.0.0) will do for our purposes.
 {{% /aside %}}
 
 ## Testing your installation
