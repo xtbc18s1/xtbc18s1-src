@@ -4,8 +4,6 @@ title: "Tools"
 chapter: true
 ---
 
-{{% h %}}
-Tools
-{{% /h %}}
+# TOOLS
 
 This guide includes information about additional tools and configuration options you may find helpful.
