@@ -103,11 +103,14 @@ By default, IntelliSense will suggest Emmet expansion just like any other autoco
 
 When Emmet expands an abbreviation for a React component, it adds both a closing and opening tag.  Sometimes, we just want a single, self-closing tag.  In the keybindings listed in the previous section, we added one for `"editor.emmet.action.splitJoinTag"`.  This toggles between the open / closing tag and self-closing tag by pressing <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>space</kbd>
 
-There's another really handy Emmet feature to which I've assigned a shortcut: _wrap with abbreviation_. It allows you to wrap a selection inside an HTML element identified by an Emmet abbreviation. Select the text you want to wrap and hit the shortcut. You'll be presented with a box to type the abbreviation into. Magic! I've assigned this command to <kbd>shift</kbd>+<kbd>⌘</kbd>+<kbd>A</kbd>. 
+There's another really handy Emmet feature to which I've assigned a shortcut: _wrap with abbreviation_. It allows you to wrap a selection inside an HTML element identified by an Emmet abbreviation. Select the text you want to wrap and hit the shortcut. You'll be presented with a box to type the abbreviation into. Magic! I've assigned this command to <kbd>shift</kbd>+<kbd>⌘</kbd>+<kbd>A</kbd>.
 
 To make sure Emmet will work with JSX files suffixed with `.js`, add the following lines to your VSCode settings (<kbd>Code > Preferences > Settings</kbd>):
 
 {{< code json >}}
+"emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+},
 "emmet.syntaxProfiles": {
     "javascript": "jsx"
 }
