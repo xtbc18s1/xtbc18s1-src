@@ -113,7 +113,7 @@ button.addEventListener('click', (ev) => {
 
 ## Homework
 
-* Make the button change the text of the heading.
+* Make the button change the text of the heading (the `<h1>`).
 
 ### Bonus Credit
 
@@ -123,4 +123,4 @@ button.addEventListener('click', (ev) => {
 
 * Add a form to the page
 * Add a text input to the form.
-* Update the heading with the text that you type in the text input.
+* When the form is submitted, update the heading with the text that you type in the text input.
