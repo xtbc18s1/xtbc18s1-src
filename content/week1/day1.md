@@ -9,7 +9,7 @@ weight: 1
 
 Morning:
 
-* [Playlist](https://www.youtube.com/watch?v=vGMMHQfp8Vk&list=PLuT2TqJuwaY_Hj168ujFhP0w5HzmaDLfG) | [Day 1, part 1](https://www.youtube.com/watch?v=vGMMHQfp8Vk&list=PLuT2TqJuwaY_Hj168ujFhP0w5HzmaDLfG)
+* [Playlist](https://www.youtube.com/watch?v=vGMMHQfp8Vk&list=PLuT2TqJuwaY_Hj168ujFhP0w5HzmaDLfG) | [Day 1, part 1](https://www.youtube.com/watch?v=vGMMHQfp8Vk&t=16s)
 
 Afternoon:
 
@@ -109,7 +109,7 @@ button.addEventListener('click', (ev) => {
 [CodePen](https://codepen.io/dstrus/pen/wjxWWB)
 
 ### User Directory
-[Morning](https://github.com/xtbc18s1/user-directory) | [Afternoon](???)
+[Morning](https://github.com/xtbc18s1/user-directory) | [Afternoon](https://github.com/xtbc18s1/user-directory/tree/afternoon)
 
 ## Homework
 
