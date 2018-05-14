@@ -13,7 +13,7 @@ Morning:
 
 Afternoon:
 
-* [Playlist] | [Day 1, part 1]
+* [Playlist](https://www.youtube.com/watch?v=uX8_DUKyTx0&list=PLuT2TqJuwaY_XxGei4xUXZn9HuTU3jBRk) | [Day 1, part 1](https://www.youtube.com/watch?v=uX8_DUKyTx0&list=PLuT2TqJuwaY_XxGei4xUXZn9HuTU3jBRk)
 
 ## Topics
 
@@ -109,7 +109,7 @@ button.addEventListener('click', (ev) => {
 [CodePen](https://codepen.io/dstrus/pen/wjxWWB)
 
 ### User Directory
-[Morning](https://github.com/xtbc18s1/user-directory) | [Afternoon](https://github.com/xtbc18s1/user-directory/tree/afternoon)
+[Morning](https://github.com/xtbc18s1/user-directory/tree/f25073a1498ace91c218e3cd2cb193660b1e6efd) | [Afternoon](https://github.com/xtbc18s1/user-directory/tree/fea585d14ab6c3c49600a1746e803fd7a666ec28)
 
 ## Homework
 
