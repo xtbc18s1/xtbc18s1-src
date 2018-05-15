@@ -732,6 +732,12 @@ div.img.cw05 {
 div.img.cw06 {
   background-image: url("/images/codewars06.png");
 }
+div.img.github-flow {
+  background-image: url("/images/git-bg.png");
+  background-size: 711px 400px;
+  width: 711px;
+  height: 400px;
+}
 div.img.github-create-account {
   background-image: url("/images/github-01-create-account.png");
   background-size: 567px 502px;
