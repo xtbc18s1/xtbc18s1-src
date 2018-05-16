@@ -35,10 +35,17 @@ Afternoon:
 * `catch`
 * `finally`
 
-### Flexbox
+### Styling
 
+#### Flexbox
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Flexbox.io](https://flexbox.io/)
+
+#### Fonts
+* [Google Fonts](https://fonts.google.com/)
+
+#### Tips and Tricks on CSS
+* [CSS Tricks](https://css-tricks.com/)
 
 ## Examples
 
