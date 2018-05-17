@@ -146,7 +146,9 @@ console.log(ary)    // [5, 4, 3, 2, 1]
 
 ## Projects
 
-Tatum Tots: [Morning](https://github.com/xtbc18s1/tatum-tots) | [Afternoon](https://github.com/xtbc18s1/tatum-tots/tree/afternoon)
+Tatum Tots
+* [Morning](https://github.com/xtbc18s1/tatum-tots)
+* [Afternoon](https://github.com/xtbc18s1/tatum-tots/tree/afternoon)
 
 ## Homework
 
