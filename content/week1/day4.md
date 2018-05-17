@@ -13,7 +13,7 @@ Morning:
 
 Afternoon:
 
-* [Playlist](https://www.youtube.com/watch?v=uX8_DUKyTx0&list=PLuT2TqJuwaY_XxGei4xUXZn9HuTU3jBRk) | [Day 4, Part 1]()
+* [Playlist](https://www.youtube.com/watch?v=kBU2t3htGNI&t=2s&list=PLuT2TqJuwaY_XxGei4xUXZn9HuTU3jBRk&index=42) | [Day 4, Part 1](https://www.youtube.com/watch?v=kBU2t3htGNI&t=2s&list=PLuT2TqJuwaY_XxGei4xUXZn9HuTU3jBRk&index=42)
 
 ## Topics
 
@@ -93,7 +93,7 @@ div[data-id='div-1234'] {
 {{< /code >}}
 
 ### `.cloneNode`
-Sometimes it may be easier to clone an existing node rather than build an entirely new one, especially if the markup is complex.  In our 'Tatum Tots' project, we kept a hidden `li` in the DOM that we cloned every time we needed to render a new list item.  
+Sometimes it may be easier to clone an existing node rather than build an entirely new one, especially if the markup is complex.  In our 'Tatum Tots' project, we kept a hidden `li` in the DOM that we cloned every time we needed to render a new list item.
 
 {{< code html >}}
 &lt;li class="flick grid-x align-middle template"&gt;
