@@ -511,7 +511,7 @@ pre[rel="Terminal"]::before {
   font-size: 4rem;
 }
 #chapter p {
-  text-align: left;
+  text-align: center;
 }
 .page-heading {
   color: #fff;
