@@ -197,7 +197,7 @@ export default App
 
 ## Presentations
 
-* [Intro to React]()
+* <a target="_blank" href="/intro-to-react.pdf">Intro to React</a>
 
 ## Projects
 
