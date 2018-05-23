@@ -13,7 +13,7 @@ Morning:
 
 Afternoon:
 
-* [Playlist](https://www.youtube.com/watch?v=uX8_DUKyTx0&list=PLuT2TqJuwaY_XxGei4xUXZn9HuTU3jBRk) | [Day 7, Part 1]()
+* [Playlist](https://www.youtube.com/watch?v=uX8_DUKyTx0&list=PLuT2TqJuwaY_XxGei4xUXZn9HuTU3jBRk) | [Day 7, Part 1](https://www.youtube.com/watch?v=KLCIn7x5_3Y&index=79&list=PLuT2TqJuwaY_XxGei4xUXZn9HuTU3jBRk)
 
 ## Topics
 
@@ -21,26 +21,17 @@ Afternoon:
 
 * [Aphrodite](https://github.com/Khan/aphrodite): Support for colocating your styles with your JavaScript component.
 
-
 ### React
 
 * Methods as props
 * [Controlled](https://facebook.github.io/react/docs/forms.html) vs [Uncontrolled](https://facebook.github.io/react/docs/uncontrolled-components.html) Forms
 * [Controlled and uncontrolled form inputs in React don't have to be complicated](https://goshakkk.name/controlled-vs-uncontrolled-inputs-react/)
-* Component lifecycle methods ([Docs](https://facebook.github.io/react/docs/react-component.html))
-  * [`componentDidMount()`](https://facebook.github.io/react/docs/react-component.html#componentdidmount)
-
 
 ### JavaScript
 
 * [Destructuring assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
 * [Spread operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
 * Property initializers (and arrow functions)
-
-### Firebase [↓](#firebase)
-
-* Getting started
-* Re-base for syncing React state with Firebase
 
 ## Examples
 
@@ -78,29 +69,6 @@ class App extends React.Component {
 }
 
 ReactDOM.render(&lt;App /&gt;, document.querySelector('main'))
-{{< /code >}}
-
-#### Component lifecycle methods
-
-**`componentDidMount()`** is invoked immediately after a component is mounted. Initialization that requires DOM nodes should go here.
-
-{{< code jsx >}}
-import React, { Component } from 'react'
-
-class MyComponent extends Component {
-  componentDidMount() {
-    this.nameInput.focus()
-  }
-
-  render() {
-    return (
-      &lt;input 
-        ref={(input) =&gt; { this.nameInput = input; }} 
-        defaultValue="will focus"
-      /&gt;
-    )
-  }
-}
 {{< /code >}}
 
 ### JavaScript (ES6+)
