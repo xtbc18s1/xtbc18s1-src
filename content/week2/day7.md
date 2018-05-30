@@ -147,8 +147,6 @@ class Something extends React.Component {
 
 ## Homework
 
-## Day 7 Homework
-
 * Make the delete button work.
 
 ### Bonus Credit
